@@ -1,0 +1,17 @@
+Bot
+Inserir matricula e senha para renovação automática dos livros do pergamum
+
+Instruções
+Colocar o driver no /usr/bin
+
+TODO:
+Abrir o driver no diretório atual
+Selecionar o navegador desejavel (Firefox õ//)
+Implementar chamada Headless
+Auto executar a cada n dias
+
+Autores
+Vinicius Rifam
+Alexsandro Thomas
+Anderson Tomkelski
+
